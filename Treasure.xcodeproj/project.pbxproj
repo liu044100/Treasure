@@ -13,6 +13,7 @@
 		B72E6D9C1A73BF3A002F6F8F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B72E6D9B1A73BF3A002F6F8F /* Images.xcassets */; };
 		B72E6D9F1A73BF3A002F6F8F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B72E6D9D1A73BF3A002F6F8F /* LaunchScreen.xib */; };
 		B72E6DAB1A73BF3A002F6F8F /* TreasureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72E6DAA1A73BF3A002F6F8F /* TreasureTests.swift */; };
+		B72E6DB51A73BF61002F6F8F /* Treasure.swift in Sources */ = {isa = PBXBuildFile; fileRef = B72E6DB41A73BF61002F6F8F /* Treasure.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		B72E6DA41A73BF3A002F6F8F /* TreasureTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TreasureTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B72E6DA91A73BF3A002F6F8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B72E6DAA1A73BF3A002F6F8F /* TreasureTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreasureTests.swift; sourceTree = "<group>"; };
+		B72E6DB41A73BF61002F6F8F /* Treasure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Treasure.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				B72E6D941A73BF3A002F6F8F /* AppDelegate.swift */,
 				B72E6D961A73BF3A002F6F8F /* ViewController.swift */,
+				B72E6DB41A73BF61002F6F8F /* Treasure.swift */,
 				B72E6D981A73BF3A002F6F8F /* Main.storyboard */,
 				B72E6D9B1A73BF3A002F6F8F /* Images.xcassets */,
 				B72E6D9D1A73BF3A002F6F8F /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				B72E6D971A73BF3A002F6F8F /* ViewController.swift in Sources */,
 				B72E6D951A73BF3A002F6F8F /* AppDelegate.swift in Sources */,
+				B72E6DB51A73BF61002F6F8F /* Treasure.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
